@@ -1,0 +1,25 @@
+﻿  main.cpp
+C:\Users\tbish\source\repos\ConsoleApplication9\main.cpp(117,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tbish\source\repos\ConsoleApplication9\main.cpp(117,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tbish\source\repos\ConsoleApplication9\main.cpp(124,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tbish\source\repos\ConsoleApplication9\main.cpp(124,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tbish\source\repos\ConsoleApplication9\main.cpp(131,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tbish\source\repos\ConsoleApplication9\main.cpp(131,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tbish\source\repos\ConsoleApplication9\main.cpp(138,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tbish\source\repos\ConsoleApplication9\main.cpp(138,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tbish\source\repos\ConsoleApplication9\main.cpp(141,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tbish\source\repos\ConsoleApplication9\main.cpp(141,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tbish\source\repos\ConsoleApplication9\main.cpp(159,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tbish\source\repos\ConsoleApplication9\main.cpp(159,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tbish\source\repos\ConsoleApplication9\main.cpp(160,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tbish\source\repos\ConsoleApplication9\main.cpp(160,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tbish\source\repos\ConsoleApplication9\main.cpp(161,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\tbish\source\repos\ConsoleApplication9\main.cpp(162,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\tbish\source\repos\ConsoleApplication9\main.cpp(164,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\tbish\source\repos\ConsoleApplication9\main.cpp(172,16): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\tbish\source\repos\ConsoleApplication9\main.cpp(176,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  ConsoleApplication9.vcxproj -> C:\Users\tbish\source\repos\ConsoleApplication9\Debug\ConsoleApplication9.exe
